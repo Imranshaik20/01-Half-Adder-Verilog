@@ -1,0 +1,18 @@
+# Simulation files
+*.vcd
+*.fst
+*.lxt
+*.vvp
+
+# Executables
+*.exe
+half_adder_sim
+
+# Build folders
+build/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
